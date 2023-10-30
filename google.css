@@ -1,0 +1,58 @@
+.bg{
+    background-color:lightgray;
+}
+#logo{
+    width: 280px;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    padding-top:14%;
+}
+.p{
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    margin-bottom: 4px;
+}
+.search{
+    justify-content: center;
+    height: auto;
+    display: flex;
+    margin: auto;
+    
+}
+.buton{
+    justify-content: center;
+    height: auto;
+    display: flex;
+    margin-top: 10px;
+}
+.box {
+	width:438px;
+	height: 100px;
+	margin: 3px;
+}
+#first {
+	background: aquamarine;
+    float: left;
+}
+#second {
+	background:lightskyblue;
+    float: left;
+}
+#third {
+	background: lightseagreen;
+    float: left;
+}
+.link{
+    justify-content: center;
+    height: 3px;
+    display: flex;
+}
+.btn{
+    justify-content: center;
+    height: auto;
+    display: flex;
+    margin-top: 5px;
+}
